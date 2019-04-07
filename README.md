@@ -1,5 +1,5 @@
 #A Brief History of Linux, Unix, and Ubuntu
-- LINUX
+- **LINUX**
 
 Linux, an open source O.S., was originally released on September 17th, 1991 and has been updated ever since then.
 It was originally created as a personal project by Linus Torvalds, ever since creation, it’s been constantly updated. 
@@ -8,24 +8,28 @@ The mascot for Linux, a well-known penguin, originally came from a zoo visit whe
 
 ![alt text](images/penguin.jpg)
 
-- UNIX
+- **UNIX**
 
 Unix,  a family of multitasking, multi user computer operating systems, was originally created around the mid-1960’s by Ken Thompson and Dennis Ritchie. 
 The name “Unix” or “(Uniplexed Information and Computing Service” was actually a joke based off of on Multics (Multiplexed Information and Computer Services), 
 another operation systems at the time that actually influenced the development for O.S. to come.
 
 
-- Ubuntu
+- **Ubuntu**
 
 Ubuntu is built on Debian's architecture and infrastructure, and comprises Linux server, desktop and discontinued phone and tablet operating system versions.
 Ubuntu releases updated versions predictably every six months, and each release receives free support for nine months (eighteen months prior to 13.04) with security fixes, high-impact bug fixes and conservative, 
 substantially beneficial low-risk bug fixes. The first release was in October 2004
+)
+
+![alt text](images/ubuntu.png)
 
 The following link leads you to a download for the ubuntu program
 
 - [https://www.ubuntu.com/]
 
 #Linux Tutorial
+==
 - The first thing you should do when trying to operate linux, is make sure that you have your 
 command line/terminal open.
 - Once you have this opened up, you should input the command “pwd” which stands for “Print Working Directory”. This lets the user know immediately what directory they are currently working on.
@@ -44,4 +48,16 @@ The following ling provides a visualization of the tutorial above:
 
 - https://www.youtube.com/watch?v=IVquJh3DXUA
 
+**FTP**
+- FTP, or file File Transfer Protocol, is mainly used to transfer files from a client to a server within a computer network. 
+FTP is usually shipped together with Linux and Unix.
 
+**SFTP**
+- SFTP , or SSH File Transfer Protocol, is a network protocol that provides file access, file transfer, and file management over any reliable data stream. 
+This protocol assumes that it is run over a secure channel, such as SSH, that the server has already authenticated the client, and that the identity of the client user is available to the protocol.
+
+**SSH**
+
+- SSH is a cryptographic network protocol for operating network services securely over an unsecured network. 
+SSH provides a secure channel over an unsecured network in a client–server architecture, connecting an SSH client application with an SSH server.
+ 
