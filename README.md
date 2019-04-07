@@ -33,5 +33,7 @@ command line/terminal open.
 -  “cd /” will take you to the root directory, which contains everything
 - If a file within a folder is something that you want to copy and place somewhere else, input the command “cp”(which literally stands for copy) followed by the name of the file.   If you out another name following the files name, it will be renamed to that within the same folder
 - If you want to remove a file, input “rm” into the command line followed by the name of the file
--
+-To place a copied file into another folder, you input “cp” followed by /directory/user/destination you like for it to go ex: “cp file /home/asim/music”
+-If you would want the copied file to paced in a whole new folder, use the command “mkdir”(Make directory) followed by the name you want  to create that file, if want to delete a folder, input “rmdir”(remove directory) followed by the name to remove it or -r and the folder name for if the folder is not empty. Ex: “rmdir -r folder”
 
+-
