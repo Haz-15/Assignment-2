@@ -31,5 +31,7 @@ command line/terminal open.
 - Once you’ve seen everything listed in the directory, if there is a specific folder you want to get into, input “cd” followed by the name of the location to navigate into it 
 -  If you’ve entered the wrong folder or just simply want to leave the one you are in, input “cd ..” to back out.     
 -  “cd /” will take you to the root directory, which contains everything
-
+- If a file within a folder is something that you want to copy and place somewhere else, input the command “cp”(which literally stands for copy) followed by the name of the file.   If you out another name following the files name, it will be renamed to that within the same folder
+- If you want to remove a file, input “rm” into the command line followed by the name of the file
+-
 
