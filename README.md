@@ -1,4 +1,4 @@
-#A Brief History of Linux, Unix, and Ubuntu
+# A Brief History of Linux, Unix, and Ubuntu
 - **LINUX**
 
 Linux, an open source O.S., was originally released on September 17th, 1991 and has been updated ever since then.
@@ -28,7 +28,7 @@ The following link leads you to a download for the ubuntu program
 
 - [https://www.ubuntu.com/]
 
-#Linux Tutorial
+Linux Tutorial
 ==
 - The first thing you should do when trying to operate linux, is make sure that you have your 
 command line/terminal open.
