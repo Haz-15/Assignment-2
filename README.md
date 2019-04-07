@@ -43,6 +43,10 @@ command line/terminal open.
 - If you would want the copied file to paced in a whole new folder, use the command “mkdir”(Make directory) followed by the name you want  to create that file, if want to delete a folder, input “rmdir”(remove directory) followed by the name to remove it or -r and the folder name for if the folder is not empty. Ex: “rmdir -r folder”
 - Inputting man(manual) followed by another command will give you details of the command.
 - Finally, with all the commands you input, the screen will get cluttered, inputting clear will simply clear up the screen for you 
+- If you ever need to change the permissions on files/folders, use the command chmod(change mode) followed by either "u", "g"
+or "o"(User, group, Other), then either "+" or "-" (Adding/removing permission) and the name of file. Ex: "chmod u- music"
+- To change ownership of a file, use the command "chown" followed by the same options stated above to change
+ownership.
 
 The following ling provides a visualization of the tutorial above:
 
@@ -69,4 +73,8 @@ SSH provides a secure channel over an unsecured network in a client–server arc
 - The command “w” writes/saves what you input in insert mode.
 - To exit vi once you’re done, input “:q” to close out the editor 
 
+The following link brings you to a youtube channel with more detail 
+on editing with vi
+
+- https://www.youtube.com/watch?v=SI8TeVMX8pk
  
