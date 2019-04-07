@@ -35,5 +35,6 @@ command line/terminal open.
 - If you want to remove a file, input “rm” into the command line followed by the name of the file
 -To place a copied file into another folder, you input “cp” followed by /directory/user/destination you like for it to go ex: “cp file /home/asim/music”
 -If you would want the copied file to paced in a whole new folder, use the command “mkdir”(Make directory) followed by the name you want  to create that file, if want to delete a folder, input “rmdir”(remove directory) followed by the name to remove it or -r and the folder name for if the folder is not empty. Ex: “rmdir -r folder”
+-Inputting man(manual) followed by another command will give you details of the command.
+-Finally, with all the commands you input, the screen will get cluttered, inputting clear will simply clear up the screen for you 
 
--
