@@ -29,5 +29,7 @@ command line/terminal open.
 - Once you have this opened up, you should input the command “pwd” which stands for “Print Working Directory”. This lets the user know immediately what directory they are currently working on.
 - After figuring out the directory that you are in, inputting “ls”(List) will list the contents of the directory that you are in.
 - Once you’ve seen everything listed in the directory, if there is a specific folder you want to get into, input “cd” followed by the name of the location to navigate into it 
-  
+-  If you’ve entered the wrong folder or just simply want to leave the one you are in, input “cd ..” to back out.     
+-  “cd /” will take you to the root directory, which contains everything
+
 
