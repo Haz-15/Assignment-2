@@ -43,7 +43,7 @@ command line/terminal open.
 - If you would want the copied file to paced in a whole new folder, use the command “mkdir”(Make directory) followed by the name you want  to create that file, if want to delete a folder, input “rmdir”(remove directory) followed by the name to remove it or -r and the folder name for if the folder is not empty. Ex: “rmdir -r folder”
 - Inputting man(manual) followed by another command will give you details of the command.
 - Finally, with all the commands you input, the screen will get cluttered, inputting clear will simply clear up the screen for you 
-- If you ever need to change the permissions on files/folders, use the command chmod(change mode) followed by either "u", "g"
+- If you ever need to change the permissions on files/folders, use the command "chmod"(change mode) followed by either "u", "g"
 or "o"(User, group, Other), then either "+" or "-" (Adding/removing permission) and the name of file. Ex: "chmod u- music"
 - To change ownership of a file, use the command "chown" followed by the same options stated above to change
 ownership.
