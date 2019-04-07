@@ -61,3 +61,12 @@ This protocol assumes that it is run over a secure channel, such as SSH, that th
 - SSH is a cryptographic network protocol for operating network services securely over an unsecured network. 
 SSH provides a secure channel over an unsecured network in a client–server architecture, connecting an SSH client application with an SSH server.
  
+# Editing file with VI
+
+- To initialize vi, input the command vi into the linux command line.
+- Inputting “vi” followed by a name will create a new file with that name.
+- Entering the command “i” in the command line put you in “insert mode”. This allows you to edit a file . Pressing the escape button takes you out of input mode.
+- The command “w” writes/saves what you input in insert mode.
+- To exit vi once you’re done, input “:q” to close out the editor 
+
+ 
