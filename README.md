@@ -24,4 +24,6 @@ substantially beneficial low-risk bug fixes. The first release was in October 20
 (LINK)
 
 #Linux Tutorial
+- The first thing you should do when trying to operate linux, is make sure that you have your 
+command line/terminal open.
 
