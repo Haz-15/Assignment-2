@@ -20,6 +20,13 @@ The internet is made up of independently operated networks, or networks of netwo
  the world. WIFI connections devices to a ISP (internet service provider), and the ISP connects you to hundreds of 
  other networks.
  
+ There are many protocols that are used on the Internet:
+ - TCP and IP protocols
+ - Routing protocols
+ - Medium access control protocols
+ - Application level protocols
+ - and many more!
+ 
  **All devices on the internet have unique addresses**
  
  
@@ -34,7 +41,12 @@ The internet is made up of independently operated networks, or networks of netwo
    Originally created to be an open and public communications protocol for governments and educations organizations.
    
    Associates names with IP Addresses. Computers use DNS to look up domain names and retrieves the associated IP Address
-   to your computer to your destination on the internet. 
+   to your computer to your destination on the internet. Many computers connected to the Internet host part of the 
+   DNS database and the software that allows others to access it (DNS servers). No DNS server contains the entire 
+   database; they only contain a subset of it.
+   
+   ``If a DNS server does not contain the domain name requested by another computer, the DNS server re-directs the 
+   requesting computer to another DNS server``
    
    DNS servers are connected in a hierarchy divided by zones where they have different roles. Such as .com, .org, .net,
     etc.
@@ -61,6 +73,8 @@ The internet is made up of independently operated networks, or networks of netwo
   
    **TCP Transmission Control Protocol**
    Manages the sending and receiving of all data of packets.
+   When applications open a connection to another computer on the Internet, the messages they send (using a specific 
+   application layer protocol) get passed down the stack to the TCP layer. 
    
   ``Routers and TCP Systems are Scalable``
    
@@ -74,8 +88,12 @@ The internet is made up of independently operated networks, or networks of netwo
    
    **L**ocator
     
-   When we look up or surf the internet your computer is talking to another computer (or server), asking the server for a website. This “talking” is referred to ask HTTP. ``Hyper Text Transer Protocol.`
-   The conversation between your computer and the server is made up of **Get Requests,** which is GET the name of the document requested.
+   When we look up or surf the internet your computer is talking to another computer (or server), asking the server for 
+   a website. This “talking” is referred to ask HTTP. ``Hyper Text Transer Protocol.``
+   The conversation between your computer and the server is made up of **Get Requests,** 
+   which is GET the name of the document requested.
+   
+   - HTTP is a connectionless text based protocol.
    
    **HTML**
    
