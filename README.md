@@ -86,5 +86,20 @@ The internet is made up of independently operated networks, or networks of netwo
    When we send information, there is a HTTP Post Request, those requests go to servers.
    
    Cookies or ID Number, are what Webpages used to remember you, especially from post requests.
+   
+   **Security**
+   SSL – Secure Socket Layer 
+   TLS – Transport Layer Security
+   
+   SSL and TLS is use to protect people from hackers, snooping, and tampering
+   
+   HTTPS, makes sure that your HTTP request are secure and protected!
+   
+   When a servers ask browser to connect securely, it provides a digital certificate. These certificates are published by authorities – trusted entities that very identities of websites and issue certificates for them. 
+   
+   ####HTTP and DNS manage the sending and receiving of web files or anything on the web. 
+   ####TCP/IP Address break down and transport information in small packet.
+   -	Packets are made up of binary sequences of 1’s and 0’s and then are physically sent.  
+
 
    
