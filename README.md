@@ -58,6 +58,8 @@ The internet is made up of independently operated networks, or networks of netwo
    Every router keeps track of multiple paths for sending packets, choosing the cheapest (meaning time, politics, and company relations) available path of each piece of data base on destination IP address.
    
    Having options for path makes the network fault tolerant, meaning it is apply to send packets even if something goes astray = relatability.  
-
-
-
+  
+   **TCP Transmission Control Protocol**
+   Manages the sending and receiving of all data of packets.
+   
+   ``Routers and TCP Systems are Scalable``
