@@ -56,6 +56,9 @@ The internet is made up of independently operated networks, or networks of netwo
 -	A top-level domain is the part of the domain that is located on the right of the dot “.” Common TLDs are .com, .net, and .org.
     
    **Routers – Special computers on the internet**
+   
+   ![alt text](images/ruswp_diag6.png)
+
 
    Digital Information can be sent by IP Packets.
 
@@ -84,6 +87,9 @@ The internet is made up of independently operated networks, or networks of netwo
    **Communication**
    
    URL
+   
+   ![alt text](images/web_address_disect.png)
+
    
    **U**niversal
    
