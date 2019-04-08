@@ -62,4 +62,17 @@ The internet is made up of independently operated networks, or networks of netwo
    **TCP Transmission Control Protocol**
    Manages the sending and receiving of all data of packets.
    
-   ``Routers and TCP Systems are Scalable``
+  ``Routers and TCP Systems are Scalable``
+   
+   **Communication**
+   
+   URL
+   
+   **U**niversal
+   
+   **R**esource
+   
+   **L**ocator
+    
+   When we look up or surf the internet your computer is talking to another computer (or server), asking the server for a website. This “talking” is referred to ask HTTP. ``Hyper Text Transer Protocol.`
+   The conversation between your computer and the server is made up of **Get Requests,** which is GET the name of the document requested.
