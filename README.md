@@ -37,8 +37,10 @@ The internet is made up of independently operated networks, or networks of netwo
    
    The IP Address has a hierarchy. The numbers are made up of an average of 32 bits.  The first set of number identify
    Country/Network -- Region/Network, then sub networks, and lastly the device. 
-   
+    
    **Domain Name System (DNS)**
+   ![alt text](images/dns.png)
+
    Originally created to be an open and public communications protocol for governments and educations organizations.
    
    Associates names with IP Addresses. Computers use DNS to look up domain names and retrieves the associated IP Address
