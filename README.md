@@ -22,7 +22,6 @@ The internet is made up of independently operated networks, or networks of netwo
  
  **All devices on the internet have unique addresses**
  
- ![alt text](images/ipaddress.png)
  
  The IP address is the most important also know as the _Internet Protocol_
  When a person vis0ts a web page the computer is initially asking another computer for information. The IP address is
@@ -37,6 +36,16 @@ The internet is made up of independently operated networks, or networks of netwo
    Associates names with IP Addresses. Computers use DNS to look up domain names and retrieves the associated IP Address
    to your computer to your destination on the internet. 
    
+   DNS servers are connected in a hierarchy divided by zones where they have different roles. Such as .com, .org, .net,
+    etc.
+-	A top-level domain is the part of the domain that is located on the right of the dot “.” Common TLDs are .com, .net, and .org.
+    
+
+** Routers – Special computers on the internet**
+Digital Information can be sent by IP Packets.
+If you are trying to send a larger item, that item can be made up of billions of bits. Larger items that are too large to send in one packet are broken up into parts. These parts a packet with IP Address that tell where the packet is coming from and where it is going to . 
+Keep IP Packets moving through networks smoothly.
+
    DNS servers are connected in a hierarchy divided by zones where they have different roles. Such as .com, .org, .net,
     etc.
 -	A top-level domain is the part of the domain that is located on the right of the dot “.” Common TLDs are .com, .net, and .org.
