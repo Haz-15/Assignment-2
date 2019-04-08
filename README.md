@@ -29,7 +29,8 @@ The internet is made up of independently operated networks, or networks of netwo
  
  **All devices on the internet have unique addresses**
  
- 
+ ![alt text](images/ipaddress.png)
+
  The IP address is the most important also know as the _Internet Protocol_
  When a person vis0ts a web page the computer is initially asking another computer for information. The IP address is
    used by the computer to know where to send the response.
@@ -121,7 +122,4 @@ The internet is made up of independently operated networks, or networks of netwo
   
    Private data can be kept secret through encryption – the scrambling or changing a message to hide the originally text. Decryption work in the opposite.
    -	Encryption is made of 256 bit 
- 
 
-
-   
