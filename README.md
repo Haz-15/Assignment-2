@@ -99,7 +99,11 @@ The internet is made up of independently operated networks, or networks of netwo
    
    ####HTTP and DNS manage the sending and receiving of web files or anything on the web. 
    ####TCP/IP Address break down and transport information in small packet.
-   -	Packets are made up of binary sequences of 1’s and 0’s and then are physically sent.  
+   -	Packets are made up of binary sequences of 1’s and 0’s and then are physically sent. 
+  
+   Private data can be kept secret through encryption – the scrambling or changing a message to hide the originally text. Decryption work in the opposite.
+   -	Encryption is made of 256 bit 
+ 
 
 
    
