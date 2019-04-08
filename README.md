@@ -91,11 +91,11 @@ The internet is made up of independently operated networks, or networks of netwo
    ![alt text](images/web_address_disect.png)
 
    
-   **U**niversal
+   ###Universal
    
-   **R**esource
+   ##Resource
    
-   **L**ocator
+   ##Locator
     
    When we look up or surf the internet your computer is talking to another computer (or server), asking the server for 
    a website. This “talking” is referred to ask HTTP. ``Hyper Text Transer Protocol.``
