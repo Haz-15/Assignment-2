@@ -76,6 +76,6 @@ SSH provides a secure channel over an unsecured network in a client–server arc
 The following link brings you to a youtube channel with more detail 
 on editing with vi
 
-toolie
+
 - https://www.youtube.com/watch?v=SI8TeVMX8pk
  
