@@ -76,3 +76,15 @@ The internet is made up of independently operated networks, or networks of netwo
     
    When we look up or surf the internet your computer is talking to another computer (or server), asking the server for a website. This “talking” is referred to ask HTTP. ``Hyper Text Transer Protocol.`
    The conversation between your computer and the server is made up of **Get Requests,** which is GET the name of the document requested.
+   
+   **HTML**
+   
+   Hyper Text Markup Langauge
+   
+   Is used to tell a web browser how to make a page look 
+   
+   When we send information, there is a HTTP Post Request, those requests go to servers.
+   
+   Cookies or ID Number, are what Webpages used to remember you, especially from post requests.
+
+   
