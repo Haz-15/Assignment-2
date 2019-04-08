@@ -44,13 +44,20 @@ The internet is made up of independently operated networks, or networks of netwo
 
    Digital Information can be sent by IP Packets.
 
-   If you are trying to send a larger item, that item can be made up of billions of bits. Larger items that are too large to send in one packet are broken up into parts. These parts a packet with IP Address that tell where the packet is coming from and where it is going to . 
+   If you are trying to send a larger item, that item can be made up of billions of bits. Larger items that are too 
+   large to send in one packet are broken up into parts. These parts a packet with IP Address that tell where the packet 
+   is coming from and where it is going to . 
    Keep IP Packets moving through networks smoothly.
 
    DNS servers are connected in a hierarchy divided by zones where they have different roles. Such as .com, .org, .net,
     etc.
     
-   - A top-level domain is the part of the domain that is located on the right of the dot “.” Common TLDs are .com, .net, and .org.
-    
+   - A top-level domain is the part of the domain that is located on the right of the dot “.” Common TLDs are .com, 
+   .net, and .org.
+   
+   Every router keeps track of multiple paths for sending packets, choosing the cheapest (meaning time, politics, and company relations) available path of each piece of data base on destination IP address.
+   
+   Having options for path makes the network fault tolerant, meaning it is apply to send packets even if something goes astray = relatability.  
+
 
 
